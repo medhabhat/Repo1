@@ -1,8 +1,8 @@
 
 public class SwapString {
 	public static void main(String[] args){
-		String s1 = "Medha";
-		String s2 = "Bhat";
+		String s1 = "Gokul";
+		String s2 = "Naik";
 		System.out.println("Before Swapping :");
 
 		System.out.println("s1 : " + s1);
@@ -29,6 +29,8 @@ public class SwapString {
 		System.out.println("s1 : " + s1);
 
 		System.out.println("s2 : " + s2);
+		System.out.println("");
+		
 	}
 }
 
